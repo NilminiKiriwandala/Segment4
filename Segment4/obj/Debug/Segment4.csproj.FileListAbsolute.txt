@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\bin\Debug\Segment4.exe.config
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\bin\Debug\Segment4.exe
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\bin\Debug\Segment4.pdb
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\obj\Debug\Segment4.Form1.resources
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\obj\Debug\Segment4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\obj\Debug\Segment4.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\obj\Debug\Segment4.exe
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\obj\Debug\Segment4.pdb
+C:\Users\Administrator\Desktop\Projects\Segment4\Segment4\obj\Debug\Segment4.csprojResolveAssemblyReference.cache
